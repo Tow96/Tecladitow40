@@ -1,0 +1,11 @@
+# Files produced by eagle -------------------------------------------------------
+
+# Auto-router
+*.job
+*.pro
+
+# Board backups
+*.b#*
+
+# Schematic backups
+*.s#*
