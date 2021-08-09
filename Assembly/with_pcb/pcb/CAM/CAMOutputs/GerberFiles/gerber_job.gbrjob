@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2021-08-09T00:16:11Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 4,
+        "Name": {
+            "ProjectId": "pcb"
+        },
+        "Owner": "Jose Tow <a01153976@itesm.mx>",
+        "Size": {
+            "X": 227.55,
+            "Y": 77.15
+        }
+    }
+}
